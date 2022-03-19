@@ -1,4 +1,4 @@
-# Porfolio
+# Portfolio
 
 My personal portfolio, which contains academic information and current personal data.
 
