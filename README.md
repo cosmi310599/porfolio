@@ -9,5 +9,4 @@ The base is modified on a [boostrap template](https://themewagon.com/themes/best
 - [ ] Referencing links in the header (GitHub and Linkedin)
 - [ ] Change colors in the skills section
 - [ ] Justify text in the about me section 
-
-
+- [ ] Adds in the header an icon to download the CV in portfolio format
